@@ -1,0 +1,1 @@
+Projekt wykonany na potrzeby zajęć na studiach.

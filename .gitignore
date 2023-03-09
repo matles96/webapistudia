@@ -1,0 +1,7 @@
+bin/*
+Migrations/*
+obj/*
+Properties/*
+ProjektV3.csproj
+ProjektV3.csproj.user
+appsettings*
